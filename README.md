@@ -1,5 +1,5 @@
 # Learning-Chrome-Extention-Projects
-These are my first Chrome Extentions. These are projects that I am working on to understand how to create Google Chrome Extentions
+Tutorial Projects for me to learn how to make a Google Chrome Extention. These are projects that I am working on to learn how to create Google Chrome Extentions. These are my first Chrome Extentions.
 
 # References: 
 - Getting_Started Template is from: https://developer.chrome.com/extensions/getstarted
