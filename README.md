@@ -3,7 +3,13 @@ Tutorial Projects for me to learn how to make a Google Chrome Extention. These a
 
 ## Latest Showcase Video
 
-[![Latest Showcase](https://img.youtube.com/vi/W3ovWC9Vpyc/0.jpg)](https://www.youtube.com/watch?v=W3ovWC9Vpyc)
+[![Latest Showcase](https://img.youtube.com/vi/K_ndvHy1ok8/0.jpg)](https://www.youtube.com/watch?v=K_ndvHy1ok8)
+
+## Different Extensions
+
+- Gettings started project [Getting Started Showcase](https://www.youtube.com/watch?v=Dg3Ek5AEw0Y&feature=youtu.be)
+- Hello World [Hello World Showcase](https://www.youtube.com/watch?v=W3ovWC9Vpyc&feature=youtu.be)
+- Getting DOM Elements [Retrieve DOM Elements Showcase](https://youtu.be/K_ndvHy1ok8)
 
 ## To Install Extension on Chrome
 
@@ -34,7 +40,7 @@ Congratulations! You can now use your popup-based extension by clicking the hell
 - 2019.01.07 Added Google Chrome Getting Started Template
 - 2019.01.31 Added comments to Chrome Getting Started Template. [Getting Started Showcase](https://www.youtube.com/watch?v=Dg3Ek5AEw0Y&feature=youtu.be)
 - 2019.01.31 Downloaded Hello world Chrome Extention [Hello World Showcase](https://www.youtube.com/watch?v=W3ovWC9Vpyc&feature=youtu.be)
-- 2020.04.27 Created Web browser DOM Retrival. Retrieves DOM elements when extension clicked on when navigating to a specified page.
+- 2020.04.27 Created Web browser DOM Retrival. Retrieves DOM elements when extension clicked on when navigating to a specified page. [Retrieve DOM Elements Showcase](https://youtu.be/K_ndvHy1ok8)
 
 # NOTE: 
 
