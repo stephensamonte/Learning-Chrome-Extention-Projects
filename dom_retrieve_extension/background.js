@@ -7,7 +7,7 @@ function doStuffWithDom(domContent) {
     // DO STUFF WITH DOM HERE. (Call another function to keep things clean)
 }
 
-// When the browser-action button is clicked...
+// When the browser-action button (This is the extension button in the toolbar) is clicked...
 chrome.browserAction.onClicked.addListener(function (tab) {
 
     // Regex-pattern to check URLs against.

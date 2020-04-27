@@ -9,7 +9,9 @@ Tutorial Projects for me to learn how to make a Google Chrome Extention. These a
 
 - Gettings started project [Getting Started Showcase](https://www.youtube.com/watch?v=Dg3Ek5AEw0Y&feature=youtu.be)
 - Hello World [Hello World Showcase](https://www.youtube.com/watch?v=W3ovWC9Vpyc&feature=youtu.be)
-- Getting DOM Elements [Retrieve DOM Elements Showcase](https://youtu.be/K_ndvHy1ok8)
+- Getting DOM Elements [Retrieve DOM Elements Showcase](https://youtu.be/K_ndvHy1ok8) 
+    + When chrome navigates to a YouTube URL (including a video), a listener in the background.js file will trigger and run a function called "doStuffWithDom". "doStuffWithDom" console logs the DOM content. It can be used to call a function that filters desired DOM elements, then sends the info to a database.
+    + When on stack overflow website, clicking on the extension action button will console log the DOM Content
 
 ## To Install Extension on Chrome
 
