@@ -3,17 +3,18 @@
   "description" : "Base Level Extension",
   "version": "1.0",
   "browser_action": {
-    "default_popup": "popup.html",
+    "default_title": "Test Extension",
     "default_icon": "dom_extension.png"
   },
   "manifest_version": 2,
-  "commands": {
-    "_execute_browser_action": {
-      "suggested_key": {
-        "default": "Ctrl+Shift+F",
-        "mac": "MacCtrl+Shift+F"
-      },
-      "description": "Opens hello.html"
-    }
-  }
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [{
+    "matches": ["*://*.stackoverflow.com/*"],
+    "js": ["content.js"]
+  }],
+  "permissions": ["activeTab"]
 }
