@@ -1,7 +1,8 @@
 # Learning-Chrome-Extention-Projects
 Tutorial Projects for me to learn how to make a Google Chrome Extention. These are projects that I am working on to learn how to create Google Chrome Extentions. These are my first Chrome Extentions.
 
-## Latest Showcase Video: 
+## Latest Showcase Video
+
 [![Latest Showcase](https://img.youtube.com/vi/W3ovWC9Vpyc/0.jpg)](https://www.youtube.com/watch?v=W3ovWC9Vpyc)
 
 ## To Install Extension on Chrome
@@ -17,6 +18,8 @@ Navigate to chrome://extensions in your browser. You can also access this page b
 Congratulations! You can now use your popup-based extension by clicking the hello_world.png icon or by pressing Ctrl+Shift+F on your keyboard.
 
 ![Alt text](/ImageAssets/2020-04-27_Load_Local_Extension.png?raw=true "2020-04-27_Load_Local_Extension.png")
+
+- Reference: [Getting Started Chrome Extention Tutorial](https://developer.chrome.com/extensions/getstarted)
 
 # Note
 - The Getting Started Extension is the [Getting Started Chrome Extention Tutorial](https://developer.chrome.com/extensions/getstarted). This extention allows the user to change the background color of the chrome developer website.
