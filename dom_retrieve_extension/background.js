@@ -4,7 +4,7 @@
 function doStuffWithDom(domContent) {
     console.log('I received the following DOM content:\n' + domContent); 
 
-    // NOTE: For YouTube DOM, it seems like "aria-label" is the identifier for video titles
+    // DO STUFF WITH DOM HERE. (Call another function to keep things clean)
 }
 
 // When the browser-action button is clicked...
